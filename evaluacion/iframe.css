@@ -76,6 +76,9 @@ header a:hover{
 	height:800px;
 	background-color:orange;
 }
+#bienvenido iframe{
+	margin-left:100px;
+}
 #bienvenido h2{
 	padding-top:10px;
 	margin-left:40px;
