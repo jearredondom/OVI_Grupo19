@@ -55,7 +55,7 @@ header a:hover{
 	font-weight: bold;
 }
 #cajas{
-	height:500px;
+	height:600px;
 	border-bottom:5px solid #1293d4
 }
 #fondo{
@@ -73,7 +73,7 @@ header a:hover{
 }
 #bienvenido{
 	width:850px;
-	height:500px;
+	height:600px;
 	background-color:orange;
 }
 
