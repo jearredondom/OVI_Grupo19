@@ -90,6 +90,9 @@ header a:hover{
 #bienvenido p{
 	margin-left:130px;
 }
+#recursos{
+	line-height : 10px;
+}
 #ficha{
 	height:100px;
 	border-bottom:5px solid #1293d4
