@@ -54,6 +54,9 @@ header a:hover{
 	color: #ccc;
 	font-weight: bold;
 }
+#twiter{
+	float: left;
+}
 #cajas{
 	height:420px;
 	border-bottom:5px solid #1293d4
