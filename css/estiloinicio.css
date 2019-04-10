@@ -54,6 +54,11 @@ header a:hover{
 	color: #ccc;
 	font-weight: bold;
 }
+#autores{
+	border;
+	float:right;
+	margin-right:150px;
+}
 #twiter{
 	float: right;
 }
